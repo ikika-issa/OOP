@@ -4,7 +4,7 @@ Languages covered: C and C++.
 
 
 _______
-##Contents:
+## Contents:
 1. Structures in C
 2. Introduction to C++
 3. Classes
